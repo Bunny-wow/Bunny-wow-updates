@@ -1,4 +1,10 @@
 {
-  "version": "0.1.0",
-  "files": []
+  "version": "0.1.1",
+  "files": [
+    {
+      "path": "Data/patch-9.MPQ",
+      "url": "https://github.com/Bunny-wow/Bunny-wow-updates/releases/latest/download/patch-9.MPQ",
+      "sha256": "C4F57333DCE141944DA5306166EBE4AA44D779A021F9BE2D6C78388FF4AE9F0E"
+    }
+  ]
 }
